@@ -1,0 +1,26 @@
+{
+  "name": "72 проверенных прокси Telegram — Прокси Трекер, 15:33 МСК",
+  "short_name": "Прокси Трекер",
+  "description": "72 живых прокси для Телеграма на Прокси Трекер. Проверка доступности, пинг, подключение через официальный клиент Telegram без VPN и регистрации.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8f4fb",
+  "theme_color": "#71259d",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
